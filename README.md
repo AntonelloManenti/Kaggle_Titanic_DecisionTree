@@ -1,4 +1,4 @@
-# Kaggle_Titanic_DecisionTree
+# Kaggle Titanic whit simple DecisionTree
 **A simple DecisionTree for Kaggle Titanic**
 ![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
 
