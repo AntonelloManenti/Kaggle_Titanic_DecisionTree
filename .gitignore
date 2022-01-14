@@ -1,5 +1,2 @@
 *.ini
-.ipynb_checkpoints/
-*.ini
-*.ini
-*.ini
+.ipynb_checkpoints
