@@ -22,7 +22,7 @@ The default gender_submission's score is 0.76555
 
 ---
 ### Useful links
-[Colab notebook](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) | [Titanic Kaggle competition](https://www.kaggle.com/c/titanic)
+[Colab notebook](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) | [Titanic Kaggle competition](https://www.kaggle.com/c/titanic) | [My Kaggle's Notebook](https://www.kaggle.com/antonellomanenti/titanic-whit-simple-decisiontree)
 
 ---
 ### Contacts
