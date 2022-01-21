@@ -1,3 +1,4 @@
 *.ini
 .ipynb_checkpoints
 /staging/test*
+/staging/.ipynb_checkpoints*
