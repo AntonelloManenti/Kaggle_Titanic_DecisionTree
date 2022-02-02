@@ -1,6 +1,7 @@
 # Best Decision Tree for Titanic Kaggle competition
-**A simple Decision Tree for Titanic Kaggle competition**
-![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
+**A simple Decision Tree for Titanic Kaggle competition with explanation**
+
+![Kaggle DT](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture_DT.PNG)
 
 ---
 ### Pipe
@@ -19,6 +20,8 @@
 - Best 17% 💪
 
 The default gender_submission's score is 0.76555
+
+![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
 
 ---
 ### Useful links
