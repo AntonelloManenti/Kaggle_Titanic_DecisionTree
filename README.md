@@ -1,7 +1,9 @@
 # Best Decision Tree for Titanic Kaggle competition
 **A simple Decision Tree for Titanic Kaggle competition with explanation**
 
-![Kaggle DT](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture_DT.PNG)
+![Kaggle DT](https://raw.githubusercontent.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/main/staging/explanation_dt.svg)
+
+[![download](https://img.shields.io/badge/download-.svg-blue)](https://raw.githubusercontent.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/main/staging/explanation_dt.svg)
 
 ---
 ### Pipe
