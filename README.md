@@ -1,5 +1,5 @@
-# Kaggle Titanic whit simple DecisionTree
-**A simple DecisionTree for Kaggle Titanic**
+# Best Decision Tree for Titanic Kaggle competition
+**A simple Decision Tree for Titanic Kaggle competition**
 ![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
 
 ---
