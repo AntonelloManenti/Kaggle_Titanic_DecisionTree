@@ -24,11 +24,13 @@
 The default gender_submission's score is 0.76555
 
 ![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
+
+
 Visit [Titanic Kaggle competition](https://www.kaggle.com/c/titanic)
 
 ---
 ### Useful links
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) [![Open Kaggle](https://img.shields.io/badge/Open%20in%20Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&labelColor=blue&color=gray)](https://www.kaggle.com/antonellomanenti/best-decision-tree-for-titanic)
+[![Open in Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) [![Open in Kaggle Notebook](https://img.shields.io/badge/Open%20in%20Kaggle%20Notebook-20BEFF?style=flat&logo=Kaggle&logoColor=white&labelColor=blue&color=gray)](https://www.kaggle.com/antonellomanenti/best-decision-tree-for-titanic)
 
 ---
 ### Contacts
