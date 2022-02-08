@@ -35,5 +35,4 @@ The default gender_submission's score is 0.76555
 
 ---
 ### License
-[![License](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/LICENSE)
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/LICENSE)
