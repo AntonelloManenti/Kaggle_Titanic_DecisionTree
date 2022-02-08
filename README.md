@@ -31,7 +31,9 @@ The default gender_submission's score is 0.76555
 
 ---
 ### Contacts
-[antonellomanenti@gmail.com](mailto:antonellomanenti@gmail.com) | [linkedin.com/antonello-manenti](https://www.linkedin.com/in/antonello-manenti/) | [github.com/AntonelloManenti](https://github.com/AntonelloManenti)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/antonello-manenti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=red&color=gray)](mailto:antonellomanenti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree)
 
 ---
 ### License
