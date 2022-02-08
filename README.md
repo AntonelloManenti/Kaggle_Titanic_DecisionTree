@@ -27,7 +27,7 @@ The default gender_submission's score is 0.76555
 
 ---
 ### Useful links
-[Colab notebook](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) | [Titanic Kaggle competition](https://www.kaggle.com/c/titanic) | [My Kaggle's Notebook](https://www.kaggle.com/antonellomanenti/titanic-whit-simple-decisiontree) [![Open Kaggle](https://img.shields.io/badge/Open%20in%20Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&labelColor=blue&color=gray)](https://www.kaggle.com/antonellomanenti/best-decision-tree-for-titanic)
+[Colab notebook](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) | [Titanic Kaggle competition](https://www.kaggle.com/c/titanic) | [My Kaggle's Notebook](https://www.kaggle.com/antonellomanenti/titanic-whit-simple-decisiontree) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) [![Open Kaggle](https://img.shields.io/badge/Open%20in%20Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&labelColor=blue&color=gray)](https://www.kaggle.com/antonellomanenti/best-decision-tree-for-titanic)
 
 ---
 ### Contacts
