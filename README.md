@@ -25,15 +25,19 @@ The default gender_submission's score is 0.76555
 
 ![Kaggle Score](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/staging/Capture.PNG)
 
+
+Visit [Titanic Kaggle competition](https://www.kaggle.com/c/titanic)
+
 ---
-### Useful links
-[Colab notebook](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) | [Titanic Kaggle competition](https://www.kaggle.com/c/titanic) | [My Kaggle's Notebook](https://www.kaggle.com/antonellomanenti/titanic-whit-simple-decisiontree)
+### Notebook
+[![Open in Colab Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qd9FZ4jMcMvy6b2syExX0169m59JguHd?usp=sharing) [![Open in Kaggle](https://img.shields.io/badge/Open%20in%20Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&labelColor=blue&color=gray)](https://www.kaggle.com/antonellomanenti/best-decision-tree-for-titanic)
 
 ---
 ### Contacts
-[antonellomanenti@gmail.com](mailto:antonellomanenti@gmail.com) | [linkedin.com/antonello-manenti](https://www.linkedin.com/in/antonello-manenti/) | [github.com/AntonelloManenti](https://github.com/AntonelloManenti)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/antonello-manenti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=red&color=gray)](mailto:antonellomanenti@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree)
 
 ---
 ### License
-[MIT](https://choosealicense.com/licenses/mit/)
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/AntonelloManenti/Kaggle_Titanic_DecisionTree/blob/main/LICENSE)
